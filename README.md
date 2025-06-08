@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/izzet-ozdemir/izzet-ozdemir/blob/main/earth.jpg"></div>
+<div align="center"><img src="https://github.com/izzet-ozdemir/izzet-ozdemir/blob/main/banner.jpg"></div>
 
 <h1 align="center">Hello, I'm İzzet 👋</h1>
 
