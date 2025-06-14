@@ -1,16 +1,8 @@
 <div align="center"><img src="https://github.com/izzet-ozdemir/izzet-ozdemir/blob/main/banner4.jpg"></div>
 
-<h1 align="center">Hello, I'm İzzet 👋</h1>
+<h1 align="center">👋 Hello, I’m Izzet Özdemir</h1>
 
-<h5>Behind every complex system, there is a mind trying to understand it. Sometimes, that mind naturally transitions from managing processes to exploring data — from experience to analysis.
-
-I’ve been working in the field of ERP systems and business process digitization for many years. Throughout this time, I’ve gained not only strong technical knowledge but also hands-on experience in process management, problem-solving, and business analytics.
-
-Over time, I found myself increasingly drawn to working with data, conducting analysis, and learning about machine learning. This interest has gradually turned into a self-driven learning journey. Today, I spend much of my free time exploring data science, machine learning, and deep learning through hands-on exercises and ongoing learning.
-
-I hold a master's degree in data analytics and continuously enhance my technical skills in areas like Python, SQL, data visualization, and fundamental ML algorithms. I actively apply what I learn through small projects and real-world examples.
-
-Combining my background in ERP with a data-driven mindset excites me. I'm always eager to explore new technologies, deepen my understanding, and continue learning — not as a requirement, but as a personal passion.</h5>
+<h5>a technology enthusiast with a strong background in ERP and business processes. Alongside my current professional role, I work on data science, machine learning, deep learning, and Python projects. I enjoy working with real-world datasets, sharing insights on Kaggle, and continuously learning. I truly consider myself a lifelong learner.</h5>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/izzet-ozdemir)](https://github.com/izzet-ozdemir) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@izzetozdemir)](https://medium.com/@izzetozdemir) 
